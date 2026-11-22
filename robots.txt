@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freefireguide.github.io/sitemap.xml
